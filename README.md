@@ -1,4 +1,9 @@
 # password-npm
+
+## [Changelogs](./CHANGELOG.md)
+
+(Don't use ver 1.0.3)
+
 ## How to use it/Comment l'utiliser
 First, you have to install it : `npm install password-npm`/Premièrement, vous devez l'installer : `npm install password-npm`
 ## Examples

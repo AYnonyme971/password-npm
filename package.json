@@ -1,10 +1,13 @@
 {
   "name": "password-npm",
-  "version": "1.0.2",
-  "main": "index.js",
+  "version": "1.1.1",
+  "main": "./src/index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "node test"
+    "test": "node test/test"
+  },
+  "directories": {
+    "test": "./test"
   },
   "author": "AYnonyme (#9350)",
   "license": "MIT",
