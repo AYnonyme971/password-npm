@@ -12,7 +12,7 @@ const password = new Password(longer: number, lowercases: boolean, uppercases: b
 After :
 ```js
 const Password = require('password-npm');
-const password = new Password(longer: number, lowercases: boolean, uppercases: boolean, numbers, specials: boolean) // Most secured password (don't put lowercases: boolean, or longer: number, but for the booleans true or false, and the number a number)
+const password = new Password(longer: number, lowercases: boolean, uppercases: boolean, numbers: boolean, specials: boolean) // Most secured password (don't put lowercases: boolean, or longer: number, but for the booleans true or false, and the number a number)
 ```
 
 ### En français :
